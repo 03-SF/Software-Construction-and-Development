@@ -1,0 +1,24 @@
+Comparison Table:
+Feature	Your Code	AI-Generated Code	Better for Beginner
+Basic input	input()	input() inside a function	Yours
+Variables	Simple variables q1, q2, etc.	Lists + function parameters	Yours
+Quizzes	4 separate variables	List comprehension	Yours
+Assignments	4 separate variables	List comprehension	Yours
+Average	Explicit calculation	sum() / len()	Yours
+Calculation	Very easy to follow	Separate calculate_total() function	Yours
+Grade calculation	if/elif/else	List + for loop	Yours
+Input validation	No	Checks invalid/non-numeric marks	AI
+Prevents marks > maximum	No	Yes	AI
+Handles letters as input	No	Yes	AI
+Functions	None	4 functions	Yours for beginner
+Lists	None	Uses lists	Yours for beginner
+Loops	None	while + for	Yours for beginner
+List comprehension	None	Uses it	Yours for beginner
+Error handling	None	try/except	AI
+GPA calculation	No	Yes	AI
+Code reusability	Low	High	AI
+Code length	Longer but simpler	Shorter but more advanced	Depends
+Readability for a beginner	Very high	Medium/low	Yours
+Professional/scalable design	Basic	Much better	AI
+Concepts required	Input, variables, arithmetic, if/else	Functions, lists, loops, comprehensions, exceptions	Yours
+
